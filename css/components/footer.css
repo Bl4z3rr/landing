@@ -1,0 +1,25 @@
+#footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #155377;
+  color: white;
+}
+
+#list-inline {
+  margin-left: -40px;
+}
+
+#list-inline > li {
+  display: inline;
+  list-style: none;
+  font-size: 33px;
+  margin: 15px;
+}
+
+#list-inline a {
+  color: white;
+}
+
+#list-inline a:hover {
+  color: orange;
+}

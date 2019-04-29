@@ -1,0 +1,16 @@
+.btn-big {
+  position: absolute;
+  bottom: 134px;
+  left: 456px;
+  border: 2px solid rgba(0,0,0,0.2);
+  color: white;
+  padding: 16px;
+  border-radius: 15px;
+  font-weight: bold;
+  background-color: #10e0e8;
+}
+
+.btn-big:hover {
+  background-color: #0ecfd6;
+  transition: 1s ease;
+}
